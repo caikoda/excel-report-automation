@@ -42,7 +42,7 @@ pip install -r requirements.txt
 
 Запустите программу:
 
-python main.py
+python pereryvy_gui.py
 
 Результат
 
